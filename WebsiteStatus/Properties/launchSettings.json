@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "IpdmsJob": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
